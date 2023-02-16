@@ -1,0 +1,14 @@
+numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+root - INFO - Primer procesamiento: exitoso
+root - INFO - Segundo prosesamiento: exitoso
+root - INFO - Tercer prosesamiento: exitoso
+root - INFO - La métrica del modelo es = 0.8652370886646967
+root - INFO - Primer procesamiento: exitoso
+root - INFO - Segundo prosesamiento: exitoso
+root - INFO - Tercer prosesamiento: exitoso
+root - INFO - La métrica del modelo es = 0.8639099447179429
+root - INFO - Primer procesamiento: exitoso
+root - INFO - Segundo prosesamiento: exitoso
+root - INFO - Tercer prosesamiento: exitoso
+root - INFO - La métrica del modelo es = 0.8619024515105058
